@@ -1,0 +1,23 @@
+{
+  "name": "gitlearn",
+  "version": "1.0.0",
+  "description": "started learning github",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peekaycs/gitLearn.git"
+  },
+  "author": "Pramod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peekaycs/gitLearn/issues"
+  },
+  "homepage": "https://github.com/peekaycs/gitLearn#readme"
+}
